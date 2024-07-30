@@ -62,7 +62,7 @@ s.t.
 #ifndef _QUADPROGPP
 #define _QUADPROGPP
 
-#include "Array.hh"
+#include "quadprog++/Array.hh"
 
 namespace quadprogpp {
 
